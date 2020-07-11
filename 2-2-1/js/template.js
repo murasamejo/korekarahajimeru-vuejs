@@ -1,9 +1,9 @@
 let app = new Vue({
-  el: "#app",
+  el: '#app',
   data: {
-    message: "Hello. Vue.js World!",
-    url: "https://www.yahoo.co.jp/",
+    message: 'Hello. Vue.js World!',
+    url: 'https://www.yahoo.co.jp/',
     // flag: true,
     flag: false,
   },
-});
+})
