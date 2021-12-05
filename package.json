@@ -7,5 +7,5 @@
     "stylelint": "14.0.1",
     "stylelint-config-standard": "23.0.0"
   },
-  "packageManager": "yarn@3.1.0"
+  "packageManager": "yarn@3.1.1"
 }
